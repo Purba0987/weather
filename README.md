@@ -8,7 +8,8 @@ It features keyless public weather integration, geocoding city suggestions, auto
 
 ## 🚀 Live Demo & Repository
 * **GitHub Repository:** `https://github.com/purba0987/weather`
-* **Live Deployment Link:** `https://purba0987.github.io/weather/`
+* **Vercel Live Link:** `https://weather-gamma-sandy-14.vercel.app`
+* **GitHub Pages Live Link:** `https://purba0987.github.io/weather/`
 
 ---
 
